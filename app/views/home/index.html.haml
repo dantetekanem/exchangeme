@@ -1,0 +1,8 @@
+.row
+  .col-lg-8
+    %p
+      %h3 Register your new exchange rate alert
+  .col-lg-4
+    %p
+      %h3 Current Currencies
+      %ul= render partial: 'home/currency', collection: @currencies

@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  activated: false
+  from_currency: MyString
+  to_currency: MyString
+  value: 1.5
+  change_direction: MyString
+  watched: false
+
+two:
+  email: MyString
+  activated: false
+  from_currency: MyString
+  to_currency: MyString
+  value: 1.5
+  change_direction: MyString
+  watched: false
